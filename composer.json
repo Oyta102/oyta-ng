@@ -1,0 +1,15 @@
+{
+    "name": "oyta/oyta-ng",
+    "autoload": {
+        "psr-4": {
+            "Oyta\\OytaNg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oyta",
+            "email": "ynga7718@qq.com"
+        }
+    ],
+    "require": {}
+}
