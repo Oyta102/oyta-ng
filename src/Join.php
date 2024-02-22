@@ -7,7 +7,7 @@ class Join
     
     //商户配置
     public static function config($sn,$key){
-        return Game:: common($sn,$key);
+        return Game::common($sn,$key);
     }
     
     //创建玩家
